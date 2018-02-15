@@ -2,5 +2,5 @@
 For getting quick documentation for using symfony 3
 
 
-# Please contribute if you have better knowledge in symfony
+# Please contribute if you have better knowledge in symfony 3
 Thanks in advance
